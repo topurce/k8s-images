@@ -1,0 +1,2 @@
+FROM registry.k8s.io/metrics-server/metrics-server:v0.6.2
+MAINTAINER topurce <topurce@me.com>
